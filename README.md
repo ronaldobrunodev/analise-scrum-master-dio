@@ -1,31 +1,34 @@
-# Análise sobre a aplicação do projeto Scrum, Sony
-Aqui estará sendo enviado minha análise sobre o projeto Scrum Master da Dio. (minha opinião pessoal). 
+# Análise Crítica Textual - Caso de Sucesso da Sony com Scrum
+Aqui estará sendo enviado minha análise sobre o projeto Scrum Master da Dio. (minha opinião pessoal).
 
-**Análise: Projeto de Desenvolvimento de um Novo Produto Eletrônico**
+No caso de sucesso da Sony, a empresa obteve um suporte significativo da agile42 para estabelecer um processo ágil de gerenciamento de projetos e desenvolvimento de software baseado na abordagem SCRUM. O projeto em questão possuía um contexto altamente complexo e riscos significativos. Nesse artigo, discutiremos os motivos pelos quais a abordagem ágil foi escolhida em vez da tradicional, a utilização do Scrum, a inovação do resultado final, possíveis melhorias e outros tópicos relevantes.
 
-**Abordagem Ágil vs. Abordagem Tradicional:**
-A Sony, como uma empresa líder em tecnologia e inovação, provavelmente optaria por uma abordagem ágil para o desenvolvimento de um novo produto eletrônico. A abordagem ágil é mais adequada para projetos complexos e inovadores, onde os requisitos podem mudar com base no feedback contínuo do mercado ou dos usuários. Em um setor tão dinâmico como o de eletrônicos de consumo, a flexibilidade oferecida pela abordagem ágil permite que a Sony responda rapidamente às mudanças nas preferências dos consumidores e às tendências tecnológicas emergentes.
+Por que a abordagem ágil foi utilizada e não a tradicional para o projeto?
 
-**Utilização do Scrum:**
-O Scrum seria uma escolha natural para a Sony devido à sua estrutura simples e eficaz para gerenciamento de projetos ágeis. O Scrum divide o projeto em iterações (sprints) de curta duração, geralmente de 1 a 4 semanas, o que permite que a equipe da Sony entregue incrementos funcionais do produto a cada sprint. Isso proporciona maior visibilidade do progresso do projeto e a oportunidade de ajustar a direção do desenvolvimento com base no feedback obtido após cada sprint.
+A escolha de uma abordagem ágil, como o SCRUM, em vez da tradicional é justificada pelo contexto do projeto da Sony. O desenvolvimento de uma arquitetura de GPU de qualidade de vídeo única exigia flexibilidade, colaboração próxima com fornecedores e uma abordagem de desenvolvimento adaptável. A abordagem ágil forneceu um processo leve, fácil de entender e realizar, além de promover o trabalho em equipe. Além disso, a agilidade permitiu que a equipe se ajustasse rapidamente a mudanças no ambiente complexo e minimizasse os riscos associados ao projeto.
 
-**Resultado Final Inovador:**
-A Sony é conhecida por suas inovações tecnológicas e produtos de ponta. Portanto, o resultado final provavelmente seria inovador e pioneiro no mercado de eletrônicos de consumo. O projeto ágil, combinado com a cultura de inovação da empresa, permitiria que a Sony experimentasse novas ideias, conceitos e tecnologias ao longo do desenvolvimento, garantindo que o produto final atenda às expectativas dos clientes e ofereça diferenciação competitiva.
+Por que o Scrum foi utilizado?
 
-**O que você faria diferente?**
-Como modelo de linguagem, não tenho preferências ou opiniões, mas posso sugerir algumas áreas em que a Sony poderia considerar melhorias:
+A escolha do Scrum como framework para o projeto da Sony se deveu a vários fatores. Primeiramente, a agile42 sugeriu uma fase de coaching para garantir que o processo fosse implementado rapidamente e com confiabilidade. Isso demonstrou o comprometimento da empresa em apoiar a Sony durante todo o processo de mudança. Além disso, o Scrum é conhecido por sua abordagem iterativa e incremental, que é adequada para projetos complexos que exigem ajustes contínuos e melhorias ao longo do tempo. Com a ajuda do coach da agile42, a equipe pôde adaptar o Scrum às suas necessidades específicas e compreender melhor os princípios básicos da metodologia.
 
-1. **Envolvimento do Cliente:** Incluir a participação ativa dos clientes no processo de desenvolvimento ágil, por meio de pesquisas, testes de usabilidade e feedback contínuo, para garantir que o produto final atenda melhor às suas necessidades e preferências.
+O resultado final era inovador? Por que?
 
-2. **Colaboração Interdisciplinar:** Promover uma maior colaboração entre equipes multidisciplinares, como engenharia, design, marketing e vendas, para integrar diferentes perspectivas e conhecimentos desde o início do projeto.
+Sim, o resultado final do projeto da Sony pode ser considerado inovador. A criação de uma arquitetura de GPU de qualidade de vídeo única, com algoritmos avançados de melhoria de imagem executados em tempo real, é uma conquista significativa. Através do Scrum, a equipe pôde responder de forma ágil às complexidades e desafios enfrentados no desenvolvimento do projeto. A mentalidade de melhoria contínua incentivada pelo Scrum permitiu que a equipe superasse obstáculos, ajustasse processos e colaborasse de forma eficaz com o parceiro do projeto no Japão, a Sony Japan. Essa abordagem ágil contribuiu para a efetividade do trabalho em equipe e a entrega bem-sucedida de resultados excelentes.
 
-3. **Responsabilidade Ambiental:** Considerar a sustentabilidade e a responsabilidade ambiental durante todo o ciclo de vida do produto, desde a seleção de materiais até a gestão de resíduos eletrônicos.
+O que você faria diferente?
 
-**Outros Tópicos Interessantes:**
-1. **Estratégia de Marketing:** Analisar como a Sony utiliza sua expertise em marketing para lançar e promover o novo produto no mercado, destacando seus diferenciais e a proposta de valor para os consumidores.
+Embora o caso de sucesso da Sony com o Scrum tenha sido impressionante, sempre há espaço para melhorias. Um aspecto que poderia ser considerado é a comunicação e alinhamento entre as equipes distribuídas em diferentes países, como a equipe da Sony Germany e a equipe da Sony Japan. Certificar-se de que a colaboração e a prática do papel de Product Owner fossem bem estabelecidas poderia melhorar ainda mais a eficiência do projeto. Além disso, garantir uma transparência ainda maior nas atividades do projeto e incluir uma maior participação dos stakeholders poderia trazer benefícios adicionais.
 
-2. **Gestão de Riscos:** Explorar como a abordagem ágil permite que a Sony identifique e responda de forma proativa aos riscos e desafios do projeto, mantendo o foco nos objetivos e prazos estabelecidos.
+Outros tópicos interessantes:
 
-3. **Estratégia de Lançamento:** Investigar como a Sony planeja o lançamento do produto no mercado, incluindo parcerias estratégicas, distribuição e estratégias de preços.
+Uma observação relevante é o papel crucial do coaching durante a implementação do Scrum. O coaching forneceu o suporte necessário para superar as incertezas iniciais e ajudou a equipe a internalizar os princípios ágeis. Isso destaca a importância do acompanhamento especializado ao adotar metodologias ágeis em organizações.
+
+Reflexão:
+
+O caso de sucesso da Sony ilustra como a adoção da abordagem ágil, especificamente o Scrum, pode ser benéfica em projetos complexos e desafiadores. A transição para uma metodologia ágil requer flexibilidade, aprendizado contínuo e comprometimento. O artigo evidencia que a combinação de treinamento e coaching permitiu à equipe da Sony se adaptar ao Scrum de forma efetiva e gerar resultados inovadores. Ao destacar a importância do trabalho em equipe e do acompanhamento especializado, a história da Sony serve como um exemplo inspirador para outras organizações que buscam adotar abordagens ágeis em seus projetos.
+
+Link utilizado: [Sony - Success Story](https://www.agile42.com/en/success-stories/success-story-sony)
+
+*Artigo escrito por Ronaldo Bruno Cardoso, Engenheiro de Software formado pela Unicesumar.*
 
 
